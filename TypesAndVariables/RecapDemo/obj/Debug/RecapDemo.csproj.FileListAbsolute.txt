@@ -1,0 +1,10 @@
+D:\c_projeler\TypesAndVariables\RecapDemo\bin\Debug\RecapDemo.exe.config
+D:\c_projeler\TypesAndVariables\RecapDemo\bin\Debug\RecapDemo.exe
+D:\c_projeler\TypesAndVariables\RecapDemo\bin\Debug\RecapDemo.pdb
+D:\c_projeler\TypesAndVariables\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+D:\c_projeler\TypesAndVariables\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+D:\c_projeler\TypesAndVariables\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+D:\c_projeler\TypesAndVariables\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+D:\c_projeler\TypesAndVariables\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+D:\c_projeler\TypesAndVariables\RecapDemo\obj\Debug\RecapDemo.exe
+D:\c_projeler\TypesAndVariables\RecapDemo\obj\Debug\RecapDemo.pdb
