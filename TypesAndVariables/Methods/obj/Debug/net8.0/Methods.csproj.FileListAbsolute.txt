@@ -1,0 +1,14 @@
+D:\c_projeler\TypesAndVariables\Methods\bin\Debug\net8.0\Methods.exe
+D:\c_projeler\TypesAndVariables\Methods\bin\Debug\net8.0\Methods.deps.json
+D:\c_projeler\TypesAndVariables\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+D:\c_projeler\TypesAndVariables\Methods\bin\Debug\net8.0\Methods.dll
+D:\c_projeler\TypesAndVariables\Methods\bin\Debug\net8.0\Methods.pdb
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\Methods.dll
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\refint\Methods.dll
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\Methods.pdb
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+D:\c_projeler\TypesAndVariables\Methods\obj\Debug\net8.0\ref\Methods.dll
