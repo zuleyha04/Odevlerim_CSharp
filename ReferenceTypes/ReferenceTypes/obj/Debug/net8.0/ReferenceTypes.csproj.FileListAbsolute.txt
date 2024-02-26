@@ -1,0 +1,14 @@
+D:\c_projeler\ReferenceTypes\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.exe
+D:\c_projeler\ReferenceTypes\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.deps.json
+D:\c_projeler\ReferenceTypes\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.runtimeconfig.json
+D:\c_projeler\ReferenceTypes\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.dll
+D:\c_projeler\ReferenceTypes\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.pdb
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfoInputs.cache
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfo.cs
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.dll
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\refint\ReferenceTypes.dll
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.pdb
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.genruntimeconfig.cache
+D:\c_projeler\ReferenceTypes\ReferenceTypes\obj\Debug\net8.0\ref\ReferenceTypes.dll
