@@ -1,0 +1,14 @@
+D:\c_projeler\LinqProject\LinqProject\bin\Debug\net8.0\LinqProject.exe
+D:\c_projeler\LinqProject\LinqProject\bin\Debug\net8.0\LinqProject.deps.json
+D:\c_projeler\LinqProject\LinqProject\bin\Debug\net8.0\LinqProject.runtimeconfig.json
+D:\c_projeler\LinqProject\LinqProject\bin\Debug\net8.0\LinqProject.dll
+D:\c_projeler\LinqProject\LinqProject\bin\Debug\net8.0\LinqProject.pdb
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfoInputs.cache
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfo.cs
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\LinqProject.csproj.CoreCompileInputs.cache
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\LinqProject.dll
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\refint\LinqProject.dll
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\LinqProject.pdb
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\LinqProject.genruntimeconfig.cache
+D:\c_projeler\LinqProject\LinqProject\obj\Debug\net8.0\ref\LinqProject.dll
